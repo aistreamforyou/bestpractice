@@ -1,6 +1,6 @@
 # bestpractice
 
-s
+s123123
 
 > A Vue.js project
 
